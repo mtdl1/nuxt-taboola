@@ -11,6 +11,7 @@
         <nuxt-img quality="80" src="/images/content/100PESO-Comentarios-4.png" loading="lazy" alt="imagem 1" class="mb-3" />
         <nuxt-img quality="80" src="/images/content/100PESO-Comentarios-5.png" loading="lazy" alt="imagem 1" class="mb-3" />
         <nuxt-img quality="80" src="/images/content/100PESO-Comentarios-6.png" loading="lazy" alt="imagem 1" class="mb-3" />
+        <!-- teste -->
       </div>
 
     </div>
