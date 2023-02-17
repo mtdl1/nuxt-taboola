@@ -308,6 +308,7 @@
           celebridades
         </strong>.
       </p>
+      <!-- teste -->
 
       <img src="~/assets/images/content/100PESO-Thammy-Miranda.webp" alt="imagem 1" class="w-full pb-6">
 
