@@ -5,12 +5,12 @@
       <p class="text-white font-bold mb-5">Confira a opinião de clientes que já experimentaram os <br> benefícios do 100PESO</p>
       
       <div class="flex justify-around flex-wrap">
-        <img src="~/assets/images/content/100PESO-Comentarios-1.png" alt="imagem 1" class="mb-3">
-        <img src="~/assets/images/content/100PESO-Comentarios-2.png" alt="imagem 1" class="mb-3">
-        <img src="~/assets/images/content/100PESO-Comentarios-3.png" alt="imagem 1" class="mb-3">
-        <img src="~/assets/images/content/100PESO-Comentarios-4.png" alt="imagem 1" class="mb-3">
-        <img src="~/assets/images/content/100PESO-Comentarios-5.png" alt="imagem 1" class="mb-3">
-        <img src="~/assets/images/content/100PESO-Comentarios-6.png" alt="imagem 1" class="mb-3">
+        <nuxt-img format="webp" quality="80" src="/images/content/100PESO-Comentarios-1.png" loading="lazy" alt="imagem 1" class="mb-3" />
+        <nuxt-img format="webp" quality="80" src="/images/content/100PESO-Comentarios-2.png" loading="lazy" alt="imagem 1" class="mb-3" />
+        <nuxt-img format="webp" quality="80" src="/images/content/100PESO-Comentarios-3.png" loading="lazy" alt="imagem 1" class="mb-3" />
+        <nuxt-img format="webp" quality="80" src="/images/content/100PESO-Comentarios-4.png" loading="lazy" alt="imagem 1" class="mb-3" />
+        <nuxt-img format="webp" quality="80" src="/images/content/100PESO-Comentarios-5.png" loading="lazy" alt="imagem 1" class="mb-3" />
+        <nuxt-img format="webp" quality="80" src="/images/content/100PESO-Comentarios-6.png" loading="lazy" alt="imagem 1" class="mb-3" />
       </div>
 
     </div>

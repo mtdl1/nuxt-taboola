@@ -3,6 +3,12 @@ export default defineNuxtConfig({
   css: [
     '@/assets/css/main.css',
   ],
+  modules: [
+    '@nuxt/image-edge',
+  ],
+  image: {
+    // Options
+  },
   postcss: {
       plugins: {
         tailwindcss: {},
