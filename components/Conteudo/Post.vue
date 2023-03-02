@@ -1,7 +1,11 @@
 <template>
   <div class="w-11/12 sm:w-2/5 mx-auto">
       <h2>Foi assim que todos ficaram quando revelei o verdadeiro segredo do emagrecimento sem procedimentos caros.</h2>
-      <img src="~/assets/images/content/100PESO-comparacao-desenho.webp" alt="imagem 1" class="w-full pb-6">
+      <!-- <img src="@/assets/images/content/desk/100PESO-comparacao-desenho.webp" alt="imagem 1" class="w-full pb-6"> -->
+      <picture>
+        <source media="(min-width:465px)" srcset="@/assets/images/content/desk/100PESO-comparacao-desenho.webp">
+        <img src="@/assets/images/content/mob/100PESO-comparacao-desenho.webp">
+      </picture>
       <p>Cansei de muitas mentiras e resolvi falar a verdade sobre o motivo de você não conseguir emagrecer naturalmente e porque eles não querem que eu fale, estou até colocando meu pescoço em risco.</p>
 
       <p>
@@ -121,7 +125,7 @@
 
       <h3>Especiarias EXCLUSIVAS de cada país que podem emagrecer MUITO mais rápido</h3>
 
-      <img src="~/assets/images/content/100PESO-especialistas.webp" alt="imagem 1" class="w-full pb-6">
+      <img src="@/assets/images/content/desk/100PESO-especialistas.webp" alt="imagem 1" class="w-full pb-6">
 
       <p>
         Depois de conseguir essas especiarias, eu voltei para o Brasil e as levei em um laboratório, assim, consegui chegar
@@ -200,7 +204,7 @@
 
       <p>Junto com o laboratório, fizemos todo o procedimento de analisar o seu organismo e seus problemas, antes de fazer o experimento. E por fim, ela passou nos testes iniciais, tomou a mistura, e como eu imaginava, foi um sucesso.</p>
 
-      <img src="~/assets/images/content/Antes-e-depois.webp" alt="imagem 1" class="w-full pb-6">
+      <img src="@/assets/images/content/desk/Antes-e-depois.webp" alt="imagem 1" class="w-full pb-6">
 
       <p>
         Foram exatamente 4 meses para ela emagrecer, ficamos de boca aberta, e ela relatou como sentiu a mistura entrando no
@@ -289,7 +293,7 @@
         nenhum momento lucrar e sim ajudar o máximo de mulheres no Brasil.
       </p>
 
-      <img src="~/assets/images/content/100PESO-origem-produto.webp" alt="imagem 1" class="w-full pb-6">
+      <img src="@/assets/images/content/desk/100PESO-origem-produto.webp" alt="imagem 1" class="w-full pb-6">
 
       <p>
         As minhas prioridades eram simples se vamos realmente fazer o <strong>100PESO</strong> Quero que seja o melhor do Brasil e não quero
@@ -310,9 +314,9 @@
       </p>
       <!-- teste -->
 
-      <img src="~/assets/images/content/100PESO-Thammy-Miranda.webp" alt="imagem 1" class="w-full pb-6">
+      <img src="@/assets/images/content/desk/100PESO-Thammy-Miranda.webp" alt="imagem 1" class="w-full pb-6">
 
-      <img src="~/assets/images/content/100PESO-Juju-Salimeni.webp" alt="imagem 1" class="w-full pb-6">
+      <img src="@/assets/images/content/desk/100PESO-Juju-Salimeni.webp" alt="imagem 1" class="w-full pb-6">
 
       <p>
         As influenciadoras recomendaram o uso do 100PESO, e viraram nossos defensores contras marcas e empresas
